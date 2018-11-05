@@ -1,5 +1,5 @@
 {
-  "name": "angular-click-outside",
+  "name": "@hps-ui-legacy/angular-click-outside",
   "version": "2.10.2",
   "main": "clickoutside.directive.js",
   "author": {
@@ -12,6 +12,9 @@
   },
   "bugs": {
     "url": "https://github.com/IamAdamJowett/angular-click-outside/issues"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.trendminer.net/repository/npm-private/"
   },
   "license": "MIT",
   "devDependencies": {
